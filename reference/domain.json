@@ -1,0 +1,10 @@
+{
+  "event_types": ["valuation", "withdrawal", "insurance_payout", "tax_change", "goal_defer", "scenario_update"],
+  "goal_types": ["fitness", "rehabilitation", "travel", "emergency_reserve"],
+  "currencies": [
+    "CNY",
+    "HKD",
+    "USD"
+  ],
+  "quantity_precision": 6
+}
